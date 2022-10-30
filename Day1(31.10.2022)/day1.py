@@ -1,1 +1,0 @@
-print("this is day 1 date 31/10/2022")

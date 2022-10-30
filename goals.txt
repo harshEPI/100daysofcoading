@@ -1,4 +1,0 @@
-1.Learn GIT and github 
-2.Python Basic to advance
-3.Daily 1 hour code 
- 
